@@ -1,0 +1,5 @@
+app/repository/CsvRepository.class
+app/CsvParserApplication.class
+app/model/CsvModel.class
+app/controller/CsvController.class
+app/service/CsvService.class
